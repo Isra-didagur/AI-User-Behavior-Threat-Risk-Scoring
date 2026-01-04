@@ -1,0 +1,11 @@
+user_id,threat_risk_score,risk_level
+User_1,3.0,Low Risk
+User_2,5.1,Low Risk
+User_3,7.96,Low Risk
+User_4,5.04,Low Risk
+User_5,3.08,Low Risk
+User_6,100.0,High Risk
+User_7,2.98,Low Risk
+User_8,5.12,Low Risk
+User_9,50.06,Medium Risk
+User_10,3.02,Low Risk
