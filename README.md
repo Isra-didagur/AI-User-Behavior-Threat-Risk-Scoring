@@ -77,18 +77,31 @@ Security Risk Interpretation
 
 ## 📁 Project Structure
 AI-User-Behavior-Threat-Risk-Scoring/
+
 ├── notebooks/
+
 │   └── AI_User_Behavior_Threat_Risk_Scoring.ipynb
+
 ├── data/
+
 │   └── user_activity_logs.csv
+
 ├── src/
+
 │   ├── feature_engineering.py
+
 │   ├── anomaly_detection.py
+
 │   └── risk_scoring.py
+
 ├── outputs/
+
 │   └── threat_scores.csv
+
 ├── README.md
+
 ├── requirements.txt
+
 └── .gitignore
 
 
